@@ -1,0 +1,30 @@
+body {
+    background: rgba(70, 70, 68, 0.377);
+    font: normal 15pt Verdana;
+}
+
+header {
+    color: rgba(25, 0, 255, 0.774);
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(59, 59, 59);
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    font: medium American Typewriter, serif;
+    background: rgba(255, 255, 255, 0.781);
+}
+
+section { 
+    background: rgba(255, 255, 255, 0.795);
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    font: normal 10pt Courier New;
+    box-shadow: 5px 5px 10px rgb(59, 59, 59);
+}
+
+h4 {
+    color: rgba(25, 0, 255, 0.836);
+    font: medium American Typewriter, serif;
+}
